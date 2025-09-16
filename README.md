@@ -34,7 +34,7 @@ This project addresses these challenges through **AI-powered precision agricultu
 
 ## 🚀 Live Demo
 
-**🌐 Try it now:** [Rice Disease Classifier - Live Demo](https://your-gradio-link-here.com)
+**🌐 Try it now:** [Rice Disease Classifier - Live Demo](https://huggingface.co/spaces/adeeliqbal/rice-disease-classifier-cnn)
 
 *Experience the power of AI-driven agriculture technology!*
 
