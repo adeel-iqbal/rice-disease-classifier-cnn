@@ -6,6 +6,12 @@
 
 > **CNN-based Rice Leaf Disease Classifier with 98.9% accuracy. Detects Bacterial Blight, Blast, Brown Spot, and Tungro in rice leaves.**
 
+## 🚀 Live Demo
+
+**🌐 Try it now:** [Rice Disease Classifier - Live Demo](https://huggingface.co/spaces/adeeliqbal/rice-disease-classifier-cnn)
+
+*Experience the power of AI-driven agriculture technology!*
+
 ## 🎯 Problem Statement
 
 Rice is one of the world's most important staple crops, feeding over half the global population. However, rice cultivation faces significant challenges from various diseases that can cause substantial yield losses:
@@ -31,12 +37,6 @@ This project addresses these challenges through **AI-powered precision agricultu
 2. **Blast** - Fungal disease, most destructive rice disease worldwide  
 3. **Brown Spot** - Fungal infection affecting grain quality
 4. **Tungro** - Viral disease transmitted by leafhoppers
-
-## 🚀 Live Demo
-
-**🌐 Try it now:** [Rice Disease Classifier - Live Demo](https://huggingface.co/spaces/adeeliqbal/rice-disease-classifier-cnn)
-
-*Experience the power of AI-driven agriculture technology!*
 
 ## 📸 App Preview
 
